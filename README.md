@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Graduation Project](https://github.com/ASM-2022/Grad_Test)
 
-- 🌱 I’m currently learning **Flutter,Dart**
+- 🌱 I’m currently learning **Asp .Net**
 
 - 📫 How to reach me **mmgamal571@gmail.com**
 
